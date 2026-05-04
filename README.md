@@ -17,4 +17,5 @@ I design and build whatever I can imagine — especially through vibecoding.
 
 - Sleeping  
 - Building things  
-- PC games  
+- PC games
+- Watching Comedy Movies 

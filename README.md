@@ -2,7 +2,7 @@
 
 Software Engineer based in Uzbekistan  
 I design and build whatever I can imagine — especially through vibecoding.
-
+I love Software Products.
 ---
 
 ## ⚡ About Me

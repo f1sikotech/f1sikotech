@@ -1,4 +1,4 @@
-## 👋 Hi, I'm F1SIKO
+## ✌️ Hi, I'm F1SIKO
 
 Software Engineer based in Uzbekistan  
 I design and build whatever I can imagine — especially through vibecoding.

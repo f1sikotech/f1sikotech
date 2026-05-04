@@ -6,7 +6,7 @@ I love Software Products.
 
 ---
 
-## ⚡ About Me
+## ⚡ Fun Facts About Me
 
 💻 My laptop is basically my life-long friend  
 🚿 Not a fan of cold showers  

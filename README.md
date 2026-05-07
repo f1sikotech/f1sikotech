@@ -1,7 +1,7 @@
 ## ✌️ Hi, I'm F1SIKO
 
 Software Engineer based in Uzbekistan  
-I design and build whatever I can imagine — especially through vibecoding.
+I design and build whatever I can imagine — especially through AI as leverage.
 Also I love Software Products.
 
 ---

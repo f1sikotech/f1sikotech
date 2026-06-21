@@ -1,9 +1,7 @@
 ## ✌️ Hi, I'm F1SIKO
 
 Software Engineer based in Uzbekistan  
-I design and build whatever I can imagine — especially through AI as leverage.
-Currently learning Fullstack + AI Engineering.
-Also I love Software Products.
+Building boring software that saves people hours.
 
 ---
 

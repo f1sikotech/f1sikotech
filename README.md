@@ -11,7 +11,7 @@ Also I love Software Products.
 
 💻 My laptop is basically my life-long friend  
 🚿 Not a fan of cold showers  
-🍥 Currently watching Naruto from scratch  
+🏑 Currently focusing on problem-solving
 
 ---
 

@@ -1,21 +1,21 @@
-## 🦇 Hi, I'm F1SIKO
+## 🦇 F1SIKO
 
-Software Engineer based in Uzbekistan  
-Building boring software that saves people hours.
+ENGINEERPRENEUR
+Building products with obsessive attention to simplicity.
 
 ---
 
-## ⚡ Fun Facts About Me
+## ⚡PRINCIPLES
 
-💻 My laptop is basically my life-long friend  
-🚿 Not a fan of cold showers  
-🏑 Currently focusing on problem-solving
+001 — My laptop rarely sleeps.
+002 — I prefer warm water and cold logic.
+003 — I collect problems worth solving.
 
 ---
 
 ## 🎮 Hobbies
 
-- Sleeping  
-- Building things  
-- Counter Strike 2
-- Running, Walking, Workout  
+🦇 Shipping software
+🏃 Morning miles
+📖 Reading 
+👾 Playing

@@ -2,54 +2,27 @@
 
 ENGINEERPRENEUR
 
-Building products
-
-with obsessive attention
-
-to simplicity.
+Building products with obsessive attention to simplicity.
 
 ---
 
 ⚡ PRINCIPLES
 
-001
+001 — My laptop rarely sleeps.
 
-My laptop rarely sleeps.
+002 — I prefer warm water and cold logic.
 
----
-
-002
-
-I prefer warm water and cold logic.
-
----
-
-003
-
-I collect problems worth solving.
+003 — I collect problems worth solving.
 
 ---
 
 🎮 Hobbies
 
-📦
+📦 Shipping software
 
-Shipping software
+🏃 Morning miles
 
----
+📚 Reading
 
-🏃
+🦇 Playing
 
-Morning miles
-
----
-
-📖
-
-Reading
-
----
-
-🦇
-
-Playing

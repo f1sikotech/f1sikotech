@@ -1,21 +1,55 @@
 ## 🦇 F1SIKO
 
 ENGINEERPRENEUR
-Building products with obsessive attention to simplicity.
+
+Building products
+
+with obsessive attention
+
+to simplicity.
 
 ---
 
-## ⚡PRINCIPLES
+⚡ PRINCIPLES
 
-001 — My laptop rarely sleeps.
-002 — I prefer warm water and cold logic.
-003 — I collect problems worth solving.
+001
+
+My laptop rarely sleeps.
 
 ---
 
-## 🎮 Hobbies
+002
 
-🦇 Shipping software
-🏃 Morning miles
-📖 Reading 
-👾 Playing
+I prefer warm water and cold logic.
+
+---
+
+003
+
+I collect problems worth solving.
+
+---
+
+🎮 Hobbies
+
+📦
+
+Shipping software
+
+---
+
+🏃
+
+Morning miles
+
+---
+
+📖
+
+Reading
+
+---
+
+🦇
+
+Playing

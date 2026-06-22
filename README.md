@@ -1,4 +1,4 @@
-## ✌️ Hi, I'm F1SIKO
+## 🦇 Hi, I'm F1SIKO
 
 Software Engineer based in Uzbekistan  
 Building boring software that saves people hours.

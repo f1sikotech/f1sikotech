@@ -17,5 +17,5 @@ Building boring software that saves people hours.
 
 - Sleeping  
 - Building things  
-- PC games
-- Watching Comedy Movies 
+- Counter Strike 2
+- Running, Walking, Workout  
